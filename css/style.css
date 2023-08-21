@@ -8,3 +8,14 @@
 /* UTILS */
 
 /* STRUCTURE */
+.ten {
+  width: 10%;
+}
+
+.nine {
+  width: calc(100% / 9);
+}
+
+.seven {
+  width: calc(100% / 7);
+}
