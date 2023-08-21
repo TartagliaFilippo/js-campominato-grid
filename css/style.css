@@ -10,12 +10,15 @@
 /* STRUCTURE */
 .ten {
   width: 10%;
+  aspect-ratio: 1;
 }
 
 .nine {
   width: calc(100% / 9);
+  aspect-ratio: 1;
 }
 
 .seven {
   width: calc(100% / 7);
+  aspect-ratio: 1;
 }
